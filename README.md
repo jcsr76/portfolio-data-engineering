@@ -34,4 +34,5 @@ This portfolio is organized into the following modules:
 *   **User-Centric Design**: The desktop app provides a friendly interface for non-technical operations staff to trigger complex background processes.
 
 ---
-*Created by [Juan Saavedra](https://www.linkedin.com/in/tu-perfil) - Data Engineer*
+*Created by [Juan Saavedra](https://www.linkedin.com/in/tu-perfil) - Data Engineer and Data Analyst*
+
